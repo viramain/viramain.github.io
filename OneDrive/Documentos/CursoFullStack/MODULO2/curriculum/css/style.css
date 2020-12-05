@@ -1,19 +1,35 @@
-@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
-.letrabanco {
-    font-family: 'Black Han Sans', sans-serif;
+/* @import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+.tituloFunc {
+    font-family: 'Nerko One', cursive;
+} */
+
+
+/* @import url('https://fonts.googleapis.com/css2?family=Actor&family=Nerko+One&family=Patrick+Hand&display=swap');
+.tituloFunc {
+    font-family: 'Actor', sans-serif;
+} */
+
+
+/* @import url('https://fonts.googleapis.com/css2?family=Acme&family=Actor&family=Nerko+One&family=Patrick+Hand&display=swap');
+.tituloFunc {
+    font-family: 'Acme', sans-serif;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Actor&family=Nerko+One&family=Patrick+Hand&family=Righteous&display=swap');
+.tituloFunc {
+    font-family: 'Righteous', cursive;
 }
 
-.lista {
-    list-style: none;
-    padding: 0px;
+.fondo {
+    background-color: #21D4FD;
+    background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
 }
 
+.avatar {
+    width: 200px;
+    border-radius: 50%;
+}
 
-/* para dispositivos pequenos, modificiar imagenes de banner carousel */
-
-@media all and (max-width: 576px) {
-    .carousel-sm-responsive {
-        object-fit: cover;
-        height: 186px;
-    }
+html {
+    scroll-behavior: smooth;
 }
