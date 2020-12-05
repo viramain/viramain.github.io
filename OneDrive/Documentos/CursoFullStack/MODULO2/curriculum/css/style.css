@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+.letrabanco {
+    font-family: 'Black Han Sans', sans-serif;
+}
+
+.lista {
+    list-style: none;
+    padding: 0px;
+}
+
+
+/* para dispositivos pequenos, modificiar imagenes de banner carousel */
+
+@media all and (max-width: 576px) {
+    .carousel-sm-responsive {
+        object-fit: cover;
+        height: 186px;
+    }
+}
