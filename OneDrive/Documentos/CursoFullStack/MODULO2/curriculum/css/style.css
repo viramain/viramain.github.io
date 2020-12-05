@@ -1,25 +1,3 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
-.tituloFunc {
-    font-family: 'Nerko One', cursive;
-} */
-
-
-/* @import url('https://fonts.googleapis.com/css2?family=Actor&family=Nerko+One&family=Patrick+Hand&display=swap');
-.tituloFunc {
-    font-family: 'Actor', sans-serif;
-} */
-
-
-/* @import url('https://fonts.googleapis.com/css2?family=Acme&family=Actor&family=Nerko+One&family=Patrick+Hand&display=swap');
-.tituloFunc {
-    font-family: 'Acme', sans-serif;
-} */
-
-@import url('https://fonts.googleapis.com/css2?family=Acme&family=Actor&family=Nerko+One&family=Patrick+Hand&family=Righteous&display=swap');
-.tituloFunc {
-    font-family: 'Righteous', cursive;
-}
-
 .fondo {
     background-color: #21D4FD;
     background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
