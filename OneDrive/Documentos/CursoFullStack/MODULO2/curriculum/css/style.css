@@ -8,6 +8,9 @@
     border-radius: 50%;
 }
 
+
+/* Para que haga scroll lentamente */
+
 html {
     scroll-behavior: smooth;
 }
@@ -19,5 +22,5 @@ html {
     border-width: 3px;
     border-color: rgb(43, 42, 42);
     border-style: solid;
-    border-radius: 15px;
+    border-radius: 20px;
 }
